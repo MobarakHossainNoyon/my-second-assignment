@@ -257,7 +257,9 @@
 
   /* footer styles */
 
-  
+  .footer-container{
+    text-align: center;
+  }
 
   .footer-title{
     border: none;
